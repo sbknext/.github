@@ -12,8 +12,10 @@
 </p>
 
 <p align="center">
+  <a href="https://forge.sbknext.com">forge.sbknext.com</a> ·
+  <a href="https://mcp.sbknext.com">mcp.sbknext.com</a> ·
   <a href="https://echo.sbknext.com">echo.sbknext.com</a> ·
-  <a href="http://echo.sbknext.com/shop">Soch — verified products</a> ·
+  <a href="https://echo.sbknext.com/shop">Soch — verified products</a> ·
   <a href="https://github.com/sbknext?tab=repositories">repos</a>
 </p>
 
@@ -47,7 +49,7 @@ small, composable, and leaves the code in **your** repo.
 
 | Project | What it does |
 | --- | --- |
-| 🌐 **[forge-site](https://github.com/sbknext/forge-site)** | Forge landing + the front door for the whole idea — *solo devs ship like teams*. |
+| 🌐 **[forge-site](https://github.com/sbknext/forge-site)** | Forge landing at **[forge.sbknext.com](https://forge.sbknext.com)** — the front door for the whole idea. *Solo devs ship like teams.* |
 | 🧩 **[forge-client](https://github.com/sbknext/forge-client)** | Client SDK (Python · Node · Rust) for the **Forge Brain** MCP server — the memory + context layer behind the harness. |
 | 🕸️ **[forge-sutra](https://github.com/sbknext/forge-sutra)** | Static structural graph for any JS/TS repo — flow graph, local HTML view, and code-derivable drift checks. Understand a codebase you didn't write. |
 | 📣 **[forge-social](https://github.com/sbknext/forge-social)** | Safe-pace posting to X + Instagram from one CLI. Real Chrome session, **zero passwords in the repo**. |
@@ -62,7 +64,7 @@ exactly where it (and you) left off.
 
 | Project | What it does |
 | --- | --- |
-| 🔌 **Forge Brain (MCP)** | Per-user, isolated memory over MCP. Every query is `user_id`-scoped at the DB layer — your data never bleeds into anyone else's. Auth by API key, per-user storage quotas, no file or code-exec surface. |
+| 🔌 **[Forge Brain MCP](https://mcp.sbknext.com)** | Per-user, isolated memory over MCP. Every query is `user_id`-scoped at the DB layer — your data never bleeds into anyone else's. Auth by API key, per-user storage quotas, no file or code-exec surface. |
 | 🔥 **[claude-fuse](https://github.com/sbknext/claude-fuse)** | Local-first observability for Claude Code — auto-detects mistakes and surfaces the skills you keep reaching for. |
 | 💫 **[spec-kit](https://github.com/sbknext/spec-kit)** | Spec-Driven Development toolkit (fork) — specs as the single source of truth, code generated against them. |
 
@@ -74,7 +76,7 @@ The other half of the mission: the same trust applied to what people *buy*.
 
 - **[echo.sbknext.com](https://echo.sbknext.com)** — conversational AI for getting
   things done.
-- **[echo.sbknext.com/shop](http://echo.sbknext.com/shop) — Soch** — genuine,
+- **[echo.sbknext.com/shop](https://echo.sbknext.com/shop) — Soch** — genuine,
   **certified and verified** product information. Know what a product actually is
   before you trust it. Consumer awareness, built in.
 
